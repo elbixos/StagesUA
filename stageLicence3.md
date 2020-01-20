@@ -2,7 +2,7 @@
 
 # Dates et durée du stage
 
-Le stage dure approximativement semaines et débute en janvier
+Le stage dure approximativement trois semaines et débute en janvier
 
 Quels sont les objectifs pour le stagiaire ?
 Il s'agit pour la plupart d'entre vous, de votre première expérience dans le monde du travail.
@@ -47,4 +47,6 @@ Le stage est évalué sur 3 points avec la même importance :
 Le rapport doit présenter les informations suffisantes pour que nous puissions évaluer tous les points évoqués dans la section "objectifs pour le stagiaire". La forme de votre rapport importe : faites relire, et assurez vous que sa forme soit correcte.
 
 
-Voici pour information les fiches d'évaluations des années précédentes.
+Voici pour information les fiches d'évaluations des années précédentes et un résumé des consignes de rédaction de rapport.
+- [consignesRapportSoutenance.pdf](consignesRapportSoutenance.pdf)
+-[Fiche-eval_rapp.pdf](Fiche-eval_rapp.pdf)
